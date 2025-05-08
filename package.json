@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "docx": "^9.2.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
